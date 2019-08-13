@@ -1,0 +1,12 @@
+.idea
+target
+*.iml
+nb-configuration.xml
+vf.gf.dmn*
+.project
+.classpath
+test-output
+*.swp
+targetdeploy
+.DS_Store
+.settings
