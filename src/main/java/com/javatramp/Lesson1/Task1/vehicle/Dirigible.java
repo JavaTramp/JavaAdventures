@@ -1,16 +1,16 @@
-package com.javatramp.vehicle;
+package com.javatramp.Lesson1.Task1.vehicle;
 
-public class Airplane extends Aircraft {
+public class Dirigible extends Aircraft {
 
-    public Airplane() {
+    public Dirigible() {
     }
 
-    public Airplane(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
+    public Dirigible(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
         super(passengers, carryingCapacity, flightRange, altitude, speed, model);
     }
 
-    public void tilt(int degrees){
-        System.out.println(this.getModel() + " has tilted on " + degrees + "degrees.");
+    public void hoverWithoutFuelCosts() {
+        System.out.println(this.getModel() + " is hovering without fuel costs.");
     }
 
     @Override

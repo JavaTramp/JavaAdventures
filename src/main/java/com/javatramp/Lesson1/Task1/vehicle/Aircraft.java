@@ -1,4 +1,4 @@
-package com.javatramp.vehicle;
+package com.javatramp.Lesson1.Task1.vehicle;
 
 import java.util.Objects;
 
