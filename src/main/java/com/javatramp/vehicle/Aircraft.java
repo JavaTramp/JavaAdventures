@@ -1,5 +1,7 @@
 package com.javatramp.vehicle;
 
+import java.util.Objects;
+
 public abstract class Aircraft implements Vehicle {
 
     private int passengers;
@@ -73,5 +75,35 @@ public abstract class Aircraft implements Vehicle {
 
     public void setModel(String model) {
         this.model = model;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Aircraft)) return false;
+        Aircraft aircraft = (Aircraft) o;
+        return getPassengers() == aircraft.getPassengers() &&
+                getCarryingCapacity() == aircraft.getCarryingCapacity() &&
+                getFlightRange() == aircraft.getFlightRange() &&
+                getAltitude() == aircraft.getAltitude() &&
+                getSpeed() == aircraft.getSpeed() &&
+                Objects.equals(getModel(), aircraft.getModel());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getPassengers(), getCarryingCapacity(), getFlightRange(), getAltitude(), getSpeed(), getModel());
+    }
+
+    @Override
+    public String toString() {
+        return "Aircraft{" +
+                "passengers=" + passengers +
+                ", carryingCapacity=" + carryingCapacity +
+                ", flightRange=" + flightRange +
+                ", altitude=" + altitude +
+                ", speed=" + speed +
+                ", model='" + model + '\'' +
+                '}';
     }
 }
