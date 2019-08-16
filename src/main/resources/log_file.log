@@ -1,0 +1,3 @@
+12:17:55.570 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:10:59.739 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:13:06.778 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
