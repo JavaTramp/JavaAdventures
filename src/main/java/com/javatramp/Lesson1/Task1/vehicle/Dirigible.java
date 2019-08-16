@@ -5,8 +5,8 @@ public class Dirigible extends Aircraft {
     public Dirigible() {
     }
 
-    public Dirigible(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
-        super(passengers, carryingCapacity, flightRange, altitude, speed, model);
+    public Dirigible(String model, int passengers, int carryingCapacity, int flightRange, int altitude, int speed) {
+        super(model, passengers, carryingCapacity, flightRange, altitude, speed);
     }
 
     public void hoverWithoutFuelCosts() {

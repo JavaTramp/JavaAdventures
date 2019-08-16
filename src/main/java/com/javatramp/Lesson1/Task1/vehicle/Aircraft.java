@@ -4,17 +4,18 @@ import java.util.Objects;
 
 public abstract class Aircraft implements Vehicle {
 
+    private String model;
     private int passengers;
     private int carryingCapacity;
     private int flightRange;
     private int altitude;
     private int speed;
-    private String model;
+
 
     public Aircraft() {
     }
 
-    public Aircraft(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
+    public Aircraft(String model, int passengers, int carryingCapacity, int flightRange, int altitude, int speed) {
         this.passengers = passengers;
         this.carryingCapacity = carryingCapacity;
         this.flightRange = flightRange;
@@ -97,13 +98,12 @@ public abstract class Aircraft implements Vehicle {
 
     @Override
     public String toString() {
-        return "Aircraft{" +
-                "passengers=" + passengers +
+        return "Model='" + model + '\'' +
+                ", passengers=" + passengers +
                 ", carryingCapacity=" + carryingCapacity +
                 ", flightRange=" + flightRange +
                 ", altitude=" + altitude +
                 ", speed=" + speed +
-                ", model='" + model + '\'' +
                 '}';
     }
 }

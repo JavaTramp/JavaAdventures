@@ -33,7 +33,7 @@ public class DataReader {
             logger.error("Cann't read data from file " + FILE_NAME + ".");
             e.printStackTrace();
         }
-       
+
         return list;
     }
 }

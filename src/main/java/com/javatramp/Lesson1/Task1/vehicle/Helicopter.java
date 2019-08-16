@@ -5,8 +5,8 @@ public class Helicopter extends Aircraft {
     public Helicopter() {
     }
 
-    public Helicopter(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
-        super(passengers, carryingCapacity, flightRange, altitude, speed, model);
+    public Helicopter(String model, int passengers, int carryingCapacity, int flightRange, int altitude, int speed) {
+        super(model, passengers, carryingCapacity, flightRange, altitude, speed);
     }
 
     public void hover() {

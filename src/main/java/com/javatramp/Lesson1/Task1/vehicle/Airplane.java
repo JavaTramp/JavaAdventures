@@ -5,8 +5,8 @@ public class Airplane extends Aircraft {
     public Airplane() {
     }
 
-    public Airplane(int passengers, int carryingCapacity, int flightRange, int altitude, int speed, String model) {
-        super(passengers, carryingCapacity, flightRange, altitude, speed, model);
+    public Airplane(String model, int passengers, int carryingCapacity, int flightRange, int altitude, int speed) {
+        super(model, passengers, carryingCapacity, flightRange, altitude, speed);
     }
 
     public void tilt(int degrees){
