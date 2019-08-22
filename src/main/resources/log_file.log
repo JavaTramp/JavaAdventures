@@ -25,3 +25,24 @@
 17:06:39.733 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Z29', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
 17:06:39.733 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Q10', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
 17:06:39.733 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='SharkM2', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+17:09:34.476 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+17:09:34.520 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Z29', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+17:09:34.521 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Q10', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+17:09:34.521 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='SharkM2', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+18:30:18.819 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+18:30:18.862 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Z29', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+18:30:18.862 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Q10', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+18:30:18.862 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='SharkM2', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+12:15:10.764 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+12:15:10.826 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Z29', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+12:15:10.827 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Q10', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+12:15:10.828 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='SharkM2', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+12:15:54.930 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+12:15:54.984 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+12:15:54.984 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+12:15:54.985 [main] INFO  com.javatramp.Lesson1.Task1.airlines.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+14:21:02.613 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:33:15.428 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:33:15.476 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:33:15.477 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:33:15.477 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
