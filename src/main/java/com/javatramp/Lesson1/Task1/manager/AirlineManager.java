@@ -10,15 +10,18 @@ import java.util.Comparator;
 import java.util.List;
 
 public class AirlineManager {
+
     private final static Logger logger = LogManager.getLogger(Airline.class);
 
     public int showTotalAirlineCarryingCapacity(Airline airline) {
+        logger.info("Showed total " + airline.getAirlineName() + "'s carrying capacity.");
         return airline.getAircrafts().stream()
                 .map(aircraft -> aircraft.getCarryingCapacity())
                 .reduce(0, (carryingCapacity1, carryingCapacity2) -> carryingCapacity1 + carryingCapacity2);
     }
 
     public int showTotalAirlinePassengersCapacity(Airline airline) {
+        logger.info("Showed total " + airline.getAirlineName() + "'s passengers capacity.");
         return airline.getAircrafts().stream()
                 .map(aircraft -> aircraft.getPassengers())
                 .reduce(0, (passengersCapacity1, passengersCapacity2) -> passengersCapacity1 + passengersCapacity2);
