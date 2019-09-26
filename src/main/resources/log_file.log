@@ -46,3 +46,99 @@
 15:33:15.476 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
 15:33:15.477 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
 15:33:15.477 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+11:42:51.278 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+11:42:51.321 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+11:42:51.322 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+11:42:51.322 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+11:42:51.322 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+11:42:51.324 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+12:45:04.343 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+12:45:04.394 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+12:45:04.394 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+12:45:04.395 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+12:45:04.395 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+12:45:04.396 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+12:46:01.197 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+12:46:01.242 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+12:46:01.243 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+12:46:01.243 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+12:46:01.243 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+12:46:01.244 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+13:00:50.658 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+13:00:50.704 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+13:00:50.705 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+13:00:50.705 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+13:00:50.705 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+13:00:50.706 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:06:58.870 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:06:58.920 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:06:58.920 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:06:58.921 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:06:58.921 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:06:58.922 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:34:59.794 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:34:59.846 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:34:59.847 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:34:59.847 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:34:59.847 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:34:59.848 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:43:41.016 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:43:41.063 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:43:41.063 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:43:41.064 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:43:41.064 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:43:41.065 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:45:31.557 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:45:31.602 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=111, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:45:31.602 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:45:31.603 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=33, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:45:31.603 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:45:31.604 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:46:35.102 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:46:35.157 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=86, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:46:35.158 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:46:35.158 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:46:35.158 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:46:35.160 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:47:05.400 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:47:05.447 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:47:05.447 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:47:05.448 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:47:05.448 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:47:05.449 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:54:55.981 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:54:56.029 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:54:56.030 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:54:56.031 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:54:56.031 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:54:56.032 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:55:41.531 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:55:41.577 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:55:41.577 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:55:41.578 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:55:41.578 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:55:41.579 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+15:56:45.848 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+15:56:45.897 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+15:56:45.898 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+15:56:45.898 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+15:56:45.898 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+15:56:45.900 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+16:01:34.158 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+16:01:34.204 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+16:01:34.204 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+16:01:34.205 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+16:01:34.205 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+16:01:34.206 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+16:07:16.891 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+16:07:16.934 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=1111} was added to airline.
+16:07:16.934 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+16:07:16.935 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+16:07:16.935 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+16:07:16.936 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.
+16:07:59.816 [main] INFO  com.javatramp.Lesson1.Task1.util.DataReader - Start reading data from file src\main\resources\inputData.txt.
+16:07:59.862 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Z29Airplane', passengers=101, carryingCapacity=111, flightRange=111, altitude=111, speed=210} was added to airline.
+16:07:59.862 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='Q10Dirigible', passengers=22, carryingCapacity=222, flightRange=222, altitude=22, speed=22} was added to airline.
+16:07:59.863 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - New Model='SharkM2Helicopter', passengers=85, carryingCapacity=333, flightRange=334, altitude=44, speed=546} was added to airline.
+16:07:59.863 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's carrying capacity.
+16:07:59.864 [main] INFO  com.javatramp.Lesson1.Task1.warehouse.Airline - Showed total VitaliAir's passengers capacity.

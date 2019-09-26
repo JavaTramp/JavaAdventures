@@ -1,5 +1,8 @@
 package com.javatramp.Lesson1.Task1.vehicle;
 
+import com.javatramp.Lesson1.Task1.exception.InvalidDegreeRangeException;
+import com.javatramp.Lesson1.Task1.validator.DegreesValidator;
+
 public class Airplane extends Aircraft {
 
     public Airplane() {
@@ -9,8 +12,24 @@ public class Airplane extends Aircraft {
         super(model, passengers, carryingCapacity, flightRange, altitude, speed);
     }
 
-    public void tilt(int degrees){
-        System.out.println(this.getModel() + " has tilted on " + degrees + "degrees.");
+    public void tiltRight(int degrees){
+        try {
+            DegreesValidator.validateInclinationDegrees(degrees);
+        } catch (InvalidDegreeRangeException e) {
+            e.printStackTrace();
+            e.getCODE();
+        }
+        System.out.println(this.getModel() + " has tilted right on " + degrees + "degrees.");
+    }
+
+    public void tiltLeft(int degrees) {
+        try {
+            DegreesValidator.validateInclinationDegrees(degrees);
+        } catch (InvalidDegreeRangeException e) {
+            e.printStackTrace();
+            e.getCODE();
+        }
+        System.out.println(this.getModel() + " has tilted left on " + degrees + "degrees.");
     }
 
     @Override
