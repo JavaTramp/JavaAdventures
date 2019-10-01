@@ -8,7 +8,7 @@ public enum AircraftType {
         this.aircraftType = aircraftType;
     }
 
-    public String getAircraftType(){
+    public String getAircraftType() {
         return aircraftType;
     }
 }

@@ -1,5 +1,7 @@
 package com.javatramp.Lesson1.Task1.vehicle;
 
+import com.javatramp.Lesson1.Task1.exception.*;
+
 import java.util.Objects;
 
 public abstract class Aircraft implements Vehicle {
@@ -10,6 +12,7 @@ public abstract class Aircraft implements Vehicle {
     private int flightRange;
     private int altitude;
     private int speed;
+    private boolean soared;
 
 
     public Aircraft() {
@@ -24,11 +27,13 @@ public abstract class Aircraft implements Vehicle {
         this.model = model;
     }
 
-    public abstract void takeOff();
+    public abstract void takeOff() throws AircraftTakeOffException;
 
-    public abstract void fly();
+    public final void fly() {
+        System.out.println(this.getModel() + " is flying.");
+    }
 
-    public abstract void land();
+    public abstract void land() throws AircraftLandingException;
 
     public int getPassengers() {
         return passengers;
@@ -78,6 +83,14 @@ public abstract class Aircraft implements Vehicle {
         this.model = model;
     }
 
+    public boolean isSoared() {
+        return soared;
+    }
+
+    public void setSoared(boolean soared) {
+        this.soared = soared;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -88,12 +101,13 @@ public abstract class Aircraft implements Vehicle {
                 getFlightRange() == aircraft.getFlightRange() &&
                 getAltitude() == aircraft.getAltitude() &&
                 getSpeed() == aircraft.getSpeed() &&
+                soared == aircraft.soared &&
                 Objects.equals(getModel(), aircraft.getModel());
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(getPassengers(), getCarryingCapacity(), getFlightRange(), getAltitude(), getSpeed(), getModel());
+        return Objects.hash(getModel(), getPassengers(), getCarryingCapacity(), getFlightRange(), getAltitude(), getSpeed(), soared);
     }
 
     @Override
@@ -104,6 +118,7 @@ public abstract class Aircraft implements Vehicle {
                 ", flightRange=" + flightRange +
                 ", altitude=" + altitude +
                 ", speed=" + speed +
+                ", soared=" + soared +
                 '}';
     }
 }
